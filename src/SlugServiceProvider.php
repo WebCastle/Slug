@@ -15,7 +15,7 @@ class SlugServiceProvider extends ServiceProvider {
 	 */
 	public function boot()
 	{
-        $this->loadAutoloader(base_path('packages'));
+        
 	}
 
 	/**
