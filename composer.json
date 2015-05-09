@@ -1,0 +1,16 @@
+{
+    "name": "webcastle/slug",
+    "description": "Laravel5 slug maker",
+    "authors": [
+        {
+            "name": "Vlad Lavro",
+            "email": "vm.lavro@gmail.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"Webcastle\\Slug\\": "src/"
+		}
+	}
+}
