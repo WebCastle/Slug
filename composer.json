@@ -12,7 +12,7 @@
     },
 	"autoload": {
 		"psr-4": {
-			"Webcastle\\Slug\\": "src/"
+			"WebCastle\\Slug\\": "src/"
 		},
         "files": [
             "src/helpers.php"
