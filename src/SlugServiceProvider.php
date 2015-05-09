@@ -25,7 +25,7 @@ class SlugServiceProvider extends ServiceProvider {
 	 */
 	public function register()
 	{
-       echo "Nice!";
+		//echo "Nice!";
 	}
 
 
