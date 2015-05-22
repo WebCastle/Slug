@@ -1,6 +1,7 @@
 {
     "name": "webcastle/slug",
     "description": "Laravel5 slug maker",
+    "keywords": ["laravel", "slug"],
     "authors": [
         {
             "name": "Vlad Lavro",

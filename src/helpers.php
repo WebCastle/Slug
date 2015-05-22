@@ -1,8 +1,8 @@
 <?php
 
-if (!function_exists('slug')) {
+if (!function_exists('_slug')) {
 	
-	function slug(){
+	function _slug(){
 			echo 1;
 	}
 
